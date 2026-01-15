@@ -42,7 +42,7 @@
 </div>
 
 ---
-<img align="right" width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" />
+<img align="right" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" />
 
 ### <img src="./assets/github.png" width="30" style="vertical-align: middle;"> Who am I?
 
