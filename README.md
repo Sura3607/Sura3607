@@ -24,9 +24,10 @@
 
 </div>
 
+---
 <img align="right" width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" />
 
-### 👨‍💻 Who am I?
+### Who am I?
 
 I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
@@ -36,8 +37,8 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 - 💬 **Ask Me About**: NLP for Vietnamese, C#, Algorithms.
 
 > <i>"I prefer clean architecture, clear logic, and explainable systems."</i>
-
-### 🛠 Tech Stack
+---
+### Tech Stack
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ae7ecd9d-1cef-4442-a3ff-2565fe44665d" width="500" alt="My Skills Sphere" />
