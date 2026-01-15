@@ -44,7 +44,7 @@
 ---
 <img align="right" width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding" />
 
-### Who am I?
+### <img src="./assets/github.png" width="30" style="vertical-align: middle;"> Who am I?
 
 I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
@@ -55,7 +55,7 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
 > <i>"I prefer clean architecture, clear logic, and explainable systems."</i>
 ---
-### Tech Stack
+### <img src="./assets/git.png" width="30" style="vertical-align: middle;"> Tech Stack
 
 <div align="center">
   <img src="https://github.com/Sura3607/Sura3607/blob/main/assets/mySkills.gif" width="500" alt="My Skills Sphere" />
@@ -69,7 +69,7 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
 ---
 
-###  GitHub Dashboard
+### <img src="./assets/social.png" width="30" style="vertical-align: middle;"> GitHub Dashboard
 
 <div align="center">
   <a href="https://github.com/Sura3607">
