@@ -69,7 +69,7 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
 ---
 
-### GitHub Dashboard
+###  GitHub Dashboard
 
 <div align="center">
   <a href="https://github.com/Sura3607">
@@ -78,16 +78,16 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/0-profile-details.svg?raw=true" height="160" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="95%" alt="Profile Details" />
+  <br/>
+
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?raw=true" height="170" alt="Top Languages by Commit" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?raw=true" height="170" alt="Top Languages by Repo" />
   
-  <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/1-repos-per-language.svg?raw=true" height="160" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/4-productive-time.svg?raw=true" height="160" />
-  
-  <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/3-stats.svg?raw=true" height="160" />
+  <br/>
+
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/3-stats.svg?raw=true" height="170" alt="Commit Stats" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg?raw=true" height="170" alt="Productive Time" />
 </div>
 
 <br/>
