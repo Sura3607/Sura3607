@@ -1,5 +1,7 @@
 <div align="center">
-  
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/assets/header.svg?raw=true" width="100%" alt="Header" />
+</div>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nh%E1%BB%B1t+Nguy%E1%BB%85n;AI+%26+NLP+Developer;C%23+.NET+(WPF%2C+MVVM);System+Design+Enthusiast" alt="Typing SVG" />
   </a>
@@ -41,7 +43,7 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 ### Tech Stack
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae7ecd9d-1cef-4442-a3ff-2565fe44665d" width="500" alt="My Skills Sphere" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/assets/mySkills.gif" width="500" alt="My Skills Sphere" />
 </div>
 
 <div align="center">
