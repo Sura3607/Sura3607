@@ -21,4 +21,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-          THEMES: "solarized_dark,dracula,tokyonight,vue,dark" 
+          THEMES: "tokyonight,radical,cyan,nightowl,dracula"
