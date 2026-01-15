@@ -1,29 +1,44 @@
 <div align="center">
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/assets/header.svg?raw=true" width="100%" alt="Header" />
+<img src="https://github.com/Sura3607/Sura3607/blob/main/assets/header.svg?raw=true" width="100%" alt="Header" />
 </div>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nh%E1%BB%B1t+Nguy%E1%BB%85n;AI+%26+NLP+Developer;C%23+.NET+(WPF%2C+MVVM);System+Design+Enthusiast" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nh%E1%BB%B1t+Nguy%E1%BB%85n;AI+%26+NLP+Developer;C%23+.NET+(WPF%2C+MVVM);System+Design+Enthusiast" alt="Typing SVG" />
+</a>
 
-  <p align="center">
-    <a href="https://github.com/Sura3607">
-      <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=flat&logo=github" alt="CS Student"/>
-    </a>
-  </p>
+<p align="center">
+<a href="https://github.com/Sura3607">
+<img src="https://img.shields.io/badge/CS_Student-0E75B6?style=flat&logo=github&logoColor=white" alt="CS Student"/>
+</a>
+<a href="https://www.facebook.com/nhutnguyen3607" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/sura943607" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/nhựt-nguyễn-minh-1269672a8" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Tensura/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://huggingface.co/Sura3607" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-25272B?style=flat&logo=huggingface&logoColor=FFD21E" alt="HuggingFace"/>
+</a>
+</p>
 
-  <h3> Hi there </h3>
-  
-  <p align="center">
-    <i>"Focus on thinking deeply."</i>
-  </p>
+<h3> Hi there </h3>
 
-  <p align="center">
-    <a href="https://Sura.com">
-      <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-    </a>
-  </p>
+<p align="center">
+<i>"Focus on thinking deeply."</i>
+</p>
 
+<p align="center">
+<a href="https://Sura.com">
+<img src="https://img.shields.io/badge/___VISIT_MY_PORTFOLIO___-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
 </div>
 
 ---
@@ -58,24 +73,21 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
 <div align="center">
   <a href="https://github.com/Sura3607">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sura3607&show_icons=true&theme=transparent&title_color=0E75B6&text_color=c9d1d9&icon_color=0E75B6&bg_color=0d1117&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Sura3607">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sura3607&theme=transparent&hide_border=true&fire=0E75B6&ring=0E75B6&currStreakLabel=0E75B6&background=0d1117&dates=c9d1d9&stroke=c9d1d9" height="150" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/0-profile-details.svg?raw=true" height="160" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/0-profile-details.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg?raw=true" height="160" />
   
   <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg?raw=true" height="160" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/4-productive-time.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/1-repos-per-language.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/4-productive-time.svg?raw=true" height="160" />
   
   <br>
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/3-stats.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/radical/3-stats.svg?raw=true" height="160" />
 </div>
 
 <br/>
