@@ -58,7 +58,7 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 ### <img src="./assets/git.png" width="30" style="vertical-align: middle;"> Tech Stack
 
 <div align="center">
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/assets/mySkills.gif" width="500" alt="My Skills Sphere" />
+  <img src="./assets/mySkills.gif" width="500" alt="My Skills Sphere" />
 </div>
 
 <div align="center">
@@ -78,16 +78,16 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="95%" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="95%" alt="Profile Details" />
   <br/>
 
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?raw=true" height="170" alt="Top Languages by Commit" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?raw=true" height="170" alt="Top Languages by Repo" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg?raw=true" height="170" alt="Top Languages by Commit" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg?raw=true" height="170" alt="Top Languages by Repo" />
   
   <br/>
 
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/3-stats.svg?raw=true" height="170" alt="Commit Stats" />
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg?raw=true" height="170" alt="Productive Time" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg?raw=true" height="170" alt="Commit Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg?raw=true" height="170" alt="Productive Time" />
 </div>
 
 <br/>
@@ -95,5 +95,5 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 ---
 
 <div align="center">
-  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
