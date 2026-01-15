@@ -51,4 +51,31 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
+
+---
+
+### GitHub Dashboard
+
+<div align="center">
+  <a href="https://github.com/Sura3607">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sura3607&show_icons=true&theme=transparent&title_color=0E75B6&text_color=c9d1d9&icon_color=0E75B6&bg_color=0d1117&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sura3607">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sura3607&theme=transparent&hide_border=true&fire=0E75B6&ring=0E75B6&currStreakLabel=0E75B6&background=0d1117&dates=c9d1d9&stroke=c9d1d9" height="150" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/0-profile-details.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg?raw=true" height="160" />
+  
+  <br>
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg?raw=true" height="160" />
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/4-productive-time.svg?raw=true" height="160" />
+  
+  <br>
+  <img src="https://github.com/Sura3607/Sura3607/blob/main/profile-summary-card-output/solarized_dark/3-stats.svg?raw=true" height="160" />
+</div>
+
 <br/>
