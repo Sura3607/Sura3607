@@ -71,11 +71,6 @@ I am **Nhựt Nguyễn** (Sura3607), a **Computer Science Engineering Student**.
 
 ### <img src="./assets/social.png" width="30" style="vertical-align: middle;"> GitHub Dashboard
 
-<div align="center">
-  <a href="https://github.com/Sura3607">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sura3607&theme=transparent&hide_border=true&fire=0E75B6&ring=0E75B6&currStreakLabel=0E75B6&background=0d1117&dates=c9d1d9&stroke=c9d1d9" height="150" alt="GitHub Streak" />
-  </a>
-</div>
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg?raw=true" width="95%" alt="Profile Details" />
