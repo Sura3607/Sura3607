@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<a href="https://Sura.com">
+<a href="https://temp.com">
 <img src="https://img.shields.io/badge/___VISIT_MY_PORTFOLIO___-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
