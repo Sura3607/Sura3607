@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Sura3607/Sura3607/main/profile-summary-card-output/nightowl/4-productive-time.svg)
-```
-
-    
